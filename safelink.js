@@ -21,7 +21,6 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="10-tips-for-start-small-business-startup.html"}
 if(x=="2"){xxx="health-insurance-for-every-need.html"}
 if(x=="3"){xxx="donate-car-for-tax-credit.html"}
 if(x=="4"){xxx="compre-car-insurance-and-list-of-best.html"}a_to_ve[i].href="https://car-insurancesafe.blogspot.com/2018/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
