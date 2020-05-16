@@ -21,10 +21,9 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="compensation-mesothelioma.html"}
-if(x=="2"){xxx="car-accident-lawyer-moreno-valley.html"}
-if(x=="3"){xxx="personal-injury-attorney-cape-coral-fl.html"}
-if(x=="4"){xxx="compre-car-insurance.html"}a_to_ve[i].href="https://car-insurancesafe.blogspot.com/2020/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="compre-car-insurance-and-list-of-best.html"}
+if(x=="2"){xxx="donate-car-for-tax-credit.html"}
+if(x=="3"){xxx="health-insurance-for-every-need.html"}a_to_ve[i].href="https://car-insurancesafe.blogspot.com/2018/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
